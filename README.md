@@ -115,6 +115,19 @@ The liver is located in the right upper abdomen below the diaphram. It produces 
 - Cholangiocarcinoma
 - Angiosarcoma
 - Hemoblastoma
+- Hepatitis A
+- Hepatitis B
+- Hepatitis C
+- Autoimmune Hepatitis
+- Primary Biliary Cirrhosis
+- Primary Sclerosing Cholangitis
+- Hemochromatosis
+- Hyperoxaluria
+- Oxalosis
+- Wilson's Disease
+- Alpha-1 Antritrypsin Deficiency
+- Chronic Alcohol Abuse
+- Nonalcoholis Fatty Liver Disease
 
 ### Gallbladder
 
@@ -148,6 +161,66 @@ the duodenum. [Wikipedia](https://en.wikipedia.org/wiki/Pancreas)
 ## Urinary System
 
 ### Kidneys
+
+The kidneys are two bean-shaped organs located on the left and right in the retroperitoneal space. Kidneys' primary function is filtration of blood plasma, but they are also responsible for the synthesis of certain hormones and the conversion of vitamin D to calcitriol. [Wikipedia](https://en.wikipedia.org/wiki/Kidney)
+
+**Diseases & Open Data**
+
+- Healthy Controls
+- Renal Clear Cell Carcinoma
+  - [CPTAC-CCRCC](https://wiki.cancerimagingarchive.net/display/Public/CPTAC-CCRCC)
+    - Radiology
+    - Pathology
+    - Proteomics
+  - [TCGA-KIRC](http://dx.doi.org/10.7937/K9/TCIA.2016.V6PBVTDR)
+    - Radiology
+    - Pathology
+    - Genomics ([separate url](https://portal.gdc.cancer.gov/projects/TCGA-KIRC))
+- Renal Papillary Carcinoma
+  - [TCGA-KIRP](http://dx.doi.org/10.7937/K9/TCIA.2016.ACWOGBEF)
+    - Radiology
+    - Pathology
+    - Genomics ([separate url](https://portal.gdc.cancer.gov/projects/TCGA-KIRP))
+- Renal Chromophobe Carcinoma
+  - [TCGA-KICH](http://dx.doi.org/10.7937/K9/TCIA.2016.YU3RBCZN)
+    - Radiology
+    - Pathology
+    - Genomics ([separate url](https://portal.gdc.cancer.gov/projects/TCGA-KICH))
+- Transitional Cell Carcinoma
+- Sarcoma
+- Wilms Tumor
+- Lymphoma
+- Renal Cyst
+- Cystic Kidney Disease
+- Polycystic Kidney Disease
+- Automsomal Dominant Polycystic Kidney Disease
+- Autosomal Recessive Polycystic Kidney Disease
+- Multicystic Dysplastic Kidney
+- Nephritis
+- Pyelonephritis
+- Interstitial Nephritis
+- Glomerulonephritis
+- Lupus Nephritis
+- Diabetic Nephropathy
+- IgA Nephropathy
+- Hematuria
+- Uremia
+- Neprotic Syndrom
+- Goodpasture Syndrome
+- Alport Syndrome
+- Amyloidosis
+- Atherosclerosis
+- Renal Tubular Acidosis
+- Focal Segmental Glomerulosclerosis
+- Renal Artery Stenosis
+- Chronic Kidney Disease
+- Henoch-Schonlein Pupura
+- Medullary Sponge Kidney
+- Vesicoureteral Reflux
+- Urinary Tract Obstruction
+- Urinary Tract Infection
+- Acute Kidney Injury
+- Kidney Stone
 
 ### Ureters
 
