@@ -77,7 +77,7 @@ The stomach is located between the oesophegus and the small intestine. It secret
   - [TCGA-STAD](https://wiki.cancerimagingarchive.net/display/Public/TCGA-STAD)
     - Radiology
     - Pathology
-    - Genetics ([separate url](https://portal.gdc.cancer.gov/projects/TCGA-STAD))
+    - Genomics ([separate url](https://portal.gdc.cancer.gov/projects/TCGA-STAD))
     - Clinical Data
 - Lymphoma
 - GIST
@@ -97,6 +97,24 @@ The stomach is located between the oesophegus and the small intestine. It secret
 ## Accesories to Digestive Tract
 
 ### Liver
+
+The liver is located in the right upper abdomen below the diaphram. It produces biochemicals for digestion, regulates glycogen storage, red blood cell decomposition, and hormone production. [Wikipedia](https://en.wikipedia.org/wiki/Liver)
+
+**Diseases & Open Data**
+
+- Healthy Controls
+- Hepatocellular Carcinoma
+  - [LiTS Challenge Data](https://competitions.codalab.org/competitions/17094)
+    - Radiology
+    - Segmentations (Liver and Tumors)
+  - [TCGA-LIHC](https://wiki.cancerimagingarchive.net/display/Public/TCGA-LIHC)
+    - Radiology
+    - Clinical Data
+    - Genomics ([separate url](https://portal.gdc.cancer.gov/projects/TCGA-LIHC))
+    - Pathology
+- Cholangiocarcinoma
+- Angiosarcoma
+- Hemoblastoma
 
 ### Gallbladder
 
