@@ -4,7 +4,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Inspired by the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md), the goal is to create an **exhaustive** list of objects that could appear in the human abdomen, along with all open datasets relevant to each ebject. See [awesome_anatomy.md](awesome_anatomy.md) for more information.
+Inspired by the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md), the goal is to create an **exhaustive** list of objects that could present in the human abdomen, along with all open datasets relevant to each object. See [awesome_anatomy.md](awesome_anatomy.md) for more information.
 
 See something missing? Check out our [Contribution Guidelines](contribution_guidelines.md) and fix it!
 
