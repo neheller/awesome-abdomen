@@ -74,9 +74,11 @@ The stomach is located between the oesophegus and the small intestine. It secret
 
 - Healthy Controls
 - Stomach Adenocarcinoma
-  - TCGA-STAD
-    - [Imaging](https://wiki.cancerimagingarchive.net/display/Public/TCGA-STAD)
-    - [Genetics](https://portal.gdc.cancer.gov/projects/TCGA-STAD)
+  - [TCGA-STAD](https://wiki.cancerimagingarchive.net/display/Public/TCGA-STAD)
+    - Radiology
+    - Pathology
+    - Genetics ([separate url](https://portal.gdc.cancer.gov/projects/TCGA-STAD))
+    - Clinical Data
 - Lymphoma
 - GIST
 - Gastrointestinal Carcinoid Tumors
@@ -99,6 +101,31 @@ The stomach is located between the oesophegus and the small intestine. It secret
 ### Gallbladder
 
 ### Pancreas
+
+The pancreas is located in the abdominal cavity behind the stomach. It secretes
+several hormones into blood including insulin, as well as pancreatic juice into
+the duodenum. [Wikipedia](https://en.wikipedia.org/wiki/Pancreas)
+
+**Diseases & Open Data**
+
+- Healthy Controls
+  - [NIH Clinical Center Pancreas-CT](https://wiki.cancerimagingarchive.net/display/Public/Pancreas-CT)
+    - Radiology
+    - Segmentations
+- Ductal Adenocarcinoma
+  - [CPTAC-PDA](https://wiki.cancerimagingarchive.net/display/Public/CPTAC-PDA)
+    - Radiology
+    - Pathology
+    - Proteomics
+    - Clinical Data
+- Neoendocrine Tumor
+- Intraductal Papillary Mucinous Neoplasm
+- Pancreatitis
+- Type 1 Diabetes
+- Hypertriglyceridemia
+- Pancreatic Cyst
+- Cystic Fibrosis
+- Gallstone
 
 ## Urinary System
 
