@@ -16,7 +16,6 @@ Note that abnormal features (e.g. cancer) also belong in each section.
   - [Table of Contents](#table-of-contents)
   - [Digestive Tract](#digestive-tract)
     - [Stomach](#stomach)
-      - [Diseases & Open Data](#diseases--open-data)
     - [Small Intestine](#small-intestine)
     - [Large Intestine](#large-intestine)
     - [Appendix](#appendix)
@@ -71,7 +70,7 @@ The Digestive Tract is an organ system which takes in food, extracts energy and 
 
 The stomach is located between the oesophegus and the small intestine. It secretes enzymes and acid to aid in digestion. [Wikipedia](https://en.wikipedia.org/wiki/Stomach)
 
-#### Diseases & Open Data
+**Diseases & Open Data**
 
 - Healthy Controls
 - Stomach Adenocarcinoma
