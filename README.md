@@ -76,7 +76,9 @@ The stomach is located between the oesophegus and the small intestine. It secret
 - Stomach Adenocarcinoma
   - [TCGA-STAD](https://wiki.cancerimagingarchive.net/display/Public/TCGA-STAD)
     - Radiology
+      - CT
     - Pathology
+      - WSI
     - Genomics ([separate url](https://portal.gdc.cancer.gov/projects/TCGA-STAD))
     - Clinical Data
 - Lymphoma
@@ -90,7 +92,7 @@ The stomach is located between the oesophegus and the small intestine. It secret
 
 ### Small Intestine
 
-Also known as the small bowel, the small intestine lies between the stomach and the large intestine, and it consists of three distinct regions: the duodenum, jejunum, and the ileum. The primary function of the small intestine is the absorbtion of nutrients and minearals from food.
+Also known as the small bowel, the small intestine lies between the stomach and the large intestine, and it consists of three distinct regions: the duodenum, jejunum, and the ileum. The primary function of the small intestine is the absorbtion of nutrients and minearals from food. [Wikipedia](https://en.wikipedia.org/wiki/Small_intestine)
 
 **Diseases & Open Data**
 
@@ -102,11 +104,12 @@ Also known as the small bowel, the small intestine lies between the stomach and 
 
 ### Large Intestine
 
-TODO
+Also known as the large bowel, the large intestine is the final part of the GI tract. In the order in which waste material travels through, it consists of cecum, ascending colon, transverse colon, descending colon, sigmoid colon, rectum, and anal canal. It's primary purpose is absorbtion of water from waste material and storing feces. [Wikipedia](https://en.wikipedia.org/wiki/Large_intestine)
 
 **Diseases & Open Data**
 
 - Healthy Controls
+- Inflammatory Bowel Disease
 
 ### Appendix
 
@@ -130,12 +133,14 @@ The liver is located in the right upper abdomen below the diaphram. It produces 
 - Hepatocellular Carcinoma
   - [LiTS Challenge Data](https://competitions.codalab.org/competitions/17094)
     - Radiology
-    - Segmentations (Liver and Tumors)
+      - CT + Segmentations &#x1F537;
   - [TCGA-LIHC](https://wiki.cancerimagingarchive.net/display/Public/TCGA-LIHC)
     - Radiology
+      - MR, CT, PT
+    - Pathology
+      - WSI
     - Clinical Data
     - Genomics ([separate url](https://portal.gdc.cancer.gov/projects/TCGA-LIHC))
-    - Pathology
 - Cholangiocarcinoma
 - Angiosarcoma
 - Hemoblastoma
@@ -172,11 +177,13 @@ the duodenum. [Wikipedia](https://en.wikipedia.org/wiki/Pancreas)
 - Healthy Controls
   - [NIH Clinical Center Pancreas-CT](https://wiki.cancerimagingarchive.net/display/Public/Pancreas-CT)
     - Radiology
-    - Segmentations
+      - CT + Segmentations &#x1F537;
 - Ductal Adenocarcinoma
   - [CPTAC-PDA](https://wiki.cancerimagingarchive.net/display/Public/CPTAC-PDA)
     - Radiology
+      - CT, MR, DX, CR
     - Pathology
+      - WSI
     - Proteomics
     - Clinical Data
 - Neoendocrine Tumor
@@ -200,20 +207,27 @@ The kidneys are two bean-shaped organs located on the left and right in the retr
 - Renal Clear Cell Carcinoma
   - [CPTAC-CCRCC](https://wiki.cancerimagingarchive.net/display/Public/CPTAC-CCRCC)
     - Radiology
+      - CT, MR
     - Pathology
+      - WSI
     - Proteomics
   - [TCGA-KIRC](http://dx.doi.org/10.7937/K9/TCIA.2016.V6PBVTDR)
     - Radiology
+      - CT, MR, CR
     - Pathology
+      - WSI
     - Genomics ([separate url](https://portal.gdc.cancer.gov/projects/TCGA-KIRC))
 - Renal Papillary Carcinoma
   - [TCGA-KIRP](http://dx.doi.org/10.7937/K9/TCIA.2016.ACWOGBEF)
     - Radiology
+      - CT, MR, PT
     - Pathology
+      - WSI
     - Genomics ([separate url](https://portal.gdc.cancer.gov/projects/TCGA-KIRP))
 - Renal Chromophobe Carcinoma
   - [TCGA-KICH](http://dx.doi.org/10.7937/K9/TCIA.2016.YU3RBCZN)
     - Radiology
+      - CT, MR
     - Pathology
     - Genomics ([separate url](https://portal.gdc.cancer.gov/projects/TCGA-KICH))
 - Transitional Cell Carcinoma
@@ -280,7 +294,7 @@ TODO
 
 ### Uterus
 
-TODO
+Also known as the womb, the uterus is an organ of the female reproductive system. The superior end (the fundus) is connected to the fallopian tubes while the inferior end (the cervix) opes to the vagina.
 
 **Diseases & Open Data**
 
@@ -288,11 +302,39 @@ TODO
 
 ### Prostate
 
-TODO
+The prostate is a exocrine gland of the male reproductive system which sits between the bladder and the penis. The purpose of the prostate is to secrete an alkaline fluid constituting roughly 30% of the volume of semen, helping to neutralize the acidity of the vaginal tract. [Wikipedia](https://en.wikipedia.org/wiki/Prostate)
 
 **Diseases & Open Data**
 
 - Healthy Controls
+- Prostate Cancer
+  - [PROSTATEx Challenge](https://wiki.cancerimagingarchive.net/display/Public/SPIE-AAPM-NCI+PROSTATEx+Challenges#83450a9eb4144751b38cb85f7abcb711)
+    - Radiology
+      - MR
+    - Lesion Locations
+    - Clinical Information
+  - [Prostate-Fused-MRI-Pathology](https://wiki.cancerimagingarchive.net/display/Public/Prostate+Fused-MRI-Pathology)
+    - Radiology
+      - MR
+    - Pathology
+      - WSI + Segmentations &#x1F537;
+  - Adenocarcinoma
+    - [TCGA-PRAD](https://wiki.cancerimagingarchive.net/display/Public/TCGA-PRAD#46af39dce8ee4f3eafa3f5305d907abc)
+      - Radiology
+        - CT, PT, MR
+      - Pathology
+      - Clinical Data
+      - Genomics ([separate url](https://portal.gdc.cancer.gov/projects/TCGA-PRAD))
+    - Acinar Adenocarcinoma
+    - Ductal Adenocarcinoma
+- Transitional Cell
+- Squamous Cell
+- Small Cell
+- Benign Prostatic Hyperplasia
+- Chronic Prostatitis
+- Acute Prostatitis
+- Hematuria
+- Bladder Outlet Obstruction
 
 ## Bones
 
