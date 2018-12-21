@@ -2,7 +2,7 @@
 
 ## Medical Information Provenance
 
-If you see inaccurate or incomplete medical information, please submit an issue!
+If you see inaccurate or incomplete medical information, please [submit an issue](https://github.com/neheller/awesome-abdomen/issues)!
 
 ## Content Curation
 
@@ -10,9 +10,9 @@ Please add content! This is a massive undertaking and we won't be able to do it 
 
 ## Organization
 
-We are very open to new ideas about formatting and organization. Feel free to submit issues with ideas about how to better structure the content.
+We are very open to new ideas about formatting and organization. Feel free to [submit issues](https://github.com/neheller/awesome-abdomen/issues) with ideas about how to better structure the content.
 
-At present, decisions are being made arbitrarily to decide what objects deserve a "top-level" entry and which are mentioned within them. If you know of an established taxonomy for this, please submit an issue with a source.
+At present, decisions are being made arbitrarily to decide what objects deserve a "top-level" entry and which are mentioned within them. If you know of an established taxonomy for this, please [submit an issue](https://github.com/neheller/awesome-abdomen/issues) with a source.
 
 ### Structuring a "Diseases & Open Data" Section
 
