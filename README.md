@@ -160,11 +160,21 @@ The liver is located in the right upper abdomen below the diaphram. It produces 
 
 ### Gallbladder
 
-TODO
+The gallbladder is a small organ which lies beneath the liver. It receives and stores bile from the liver, and rleases it into the duodenum where it helps in the digestion of fats. [Wikipedia](https://en.wikipedia.org/wiki/Gallbladder)
 
 **Diseases & Open Data**
 
 - Healthy Controls
+- Gallbladder Cancer
+- Gallstones
+- Cholecystitis
+- Choledocholithiasis
+- Acalculous Gallbladder Disease
+- Biliary Dyskinesia
+- Sclerosing Cholangitis
+- Gallbladder Polyps
+- Gangrene of the Gallbladder
+- Abscess of the Gallbladder
 
 ### Pancreas
 
@@ -193,7 +203,6 @@ the duodenum. [Wikipedia](https://en.wikipedia.org/wiki/Pancreas)
 - Hypertriglyceridemia
 - Pancreatic Cyst
 - Cystic Fibrosis
-- Gallstone
 
 ## Urinary System
 
