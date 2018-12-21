@@ -303,7 +303,7 @@ TODO
 
 ### Uterus
 
-Also known as the womb, the uterus is an organ of the female reproductive system. The superior end (the fundus) is connected to the fallopian tubes while the inferior end (the cervix) opes to the vagina.
+Also known as the womb, the uterus is an organ of the female reproductive system. The superior end (the fundus) is connected to the fallopian tubes while the inferior end (the cervix) opes to the vagina. [Wikipedia](https://en.wikipedia.org/wiki/Uterus)
 
 **Diseases & Open Data**
 
