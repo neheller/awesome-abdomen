@@ -90,11 +90,35 @@ The stomach is located between the oesophegus and the small intestine. It secret
 
 ### Small Intestine
 
+Also known as the small bowel, the small intestine lies between the stomach and the large intestine, and it consists of three distinct regions: the duodenum, jejunum, and the ileum. The primary function of the small intestine is the absorbtion of nutrients and minearals from food.
+
+**Diseases & Open Data**
+
+- Healthy Controls
+- Celiac Disease
+- Bowel Obstruction
+- Inflamatory Bowel Disease
+- Small Intestinal Bacterial Overgrowth
+
 ### Large Intestine
+
+TODO
+
+**Diseases & Open Data**
+
+- Healthy Controls
 
 ### Appendix
 
+TODO
+
+**Diseases & Open Data**
+
+- Healthy Controls
+
 ## Accesories to Digestive Tract
+
+TODO
 
 ### Liver
 
@@ -130,6 +154,12 @@ The liver is located in the right upper abdomen below the diaphram. It produces 
 - Nonalcoholis Fatty Liver Disease
 
 ### Gallbladder
+
+TODO
+
+**Diseases & Open Data**
+
+- Healthy Controls
 
 ### Pancreas
 
@@ -224,72 +254,252 @@ The kidneys are two bean-shaped organs located on the left and right in the retr
 
 ### Ureters
 
+TODO
+
+**Diseases & Open Data**
+
+- Healthy Controls
+
 ### Bladder
+
+TODO
+
+**Diseases & Open Data**
+
+- Healthy Controls
 
 ## Other Organs
 
 ### Spleen
 
+TODO
+
+**Diseases & Open Data**
+
+- Healthy Controls
+
 ### Uterus
 
+TODO
+
+**Diseases & Open Data**
+
+- Healthy Controls
+
 ### Prostate
+
+TODO
+
+**Diseases & Open Data**
+
+- Healthy Controls
 
 ## Bones
 
 ### Lumbar Vertebrae
 
+TODO
+
+**Diseases & Open Data**
+
+- Healthy Controls
+
 ### Ribs
 
+TODO
+
+**Diseases & Open Data**
+
+- Healthy Controls
+
 ### Pelvis
+
+TODO
+
+**Diseases & Open Data**
+
+- Healthy Controls
 
 ## Veins and Arteries
 
 ### Descending Aorta
 
+TODO
+
+**Diseases & Open Data**
+
+- Healthy Controls
+
 ### Inferior Vena Cava
+
+TODO
+
+**Diseases & Open Data**
+
+- Healthy Controls
 
 ### Renal Veins
 
+TODO
+
+**Diseases & Open Data**
+
+- Healthy Controls
+
 ### Renal Arteries
+
+TODO
+
+**Diseases & Open Data**
+
+- Healthy Controls
 
 ### Gonadal Vein
 
+TODO
+
+**Diseases & Open Data**
+
+- Healthy Controls
+
 ### Gonadal Artery
+
+TODO
+
+**Diseases & Open Data**
+
+- Healthy Controls
 
 ### Hepatic Vein
 
+TODO
+
+**Diseases & Open Data**
+
+- Healthy Controls
+
 ### Hepatic Artery
+
+TODO
+
+**Diseases & Open Data**
+
+- Healthy Controls
 
 ## Muscles
 
 ### Rectus Abdominis
 
+TODO
+
+**Diseases & Open Data**
+
+- Healthy Controls
+
 ### Transverse Abdominal
+
+TODO
+
+**Diseases & Open Data**
+
+- Healthy Controls
 
 ### Quadratus Lumborum
 
+TODO
+
+**Diseases & Open Data**
+
+- Healthy Controls
+
 ### External Oblique
 
+TODO
+
+**Diseases & Open Data**
+
+- Healthy Controls
+
 ### Internal Oblique
+
+TODO
+
+**Diseases & Open Data**
+
+- Healthy Controls
 
 ## Fat
 
 ### Subcutaneous
 
+TODO
+
+**Diseases & Open Data**
+
+- Healthy Controls
+
 ### Extraperitoneal
+
+TODO
+
+**Diseases & Open Data**
+
+- Healthy Controls
 
 ## Membranes
 
 ### Skin
 
+TODO
+
+**Diseases & Open Data**
+
+- Healthy Controls
+
 ### Peritoneum
+
+TODO
+
+**Diseases & Open Data**
+
+- Healthy Controls
 
 ### Omentum
 
+TODO
+
+**Diseases & Open Data**
+
+- Healthy Controls
+
 ### Masentry
+
+TODO
+
+**Diseases & Open Data**
+
+- Healthy Controls
 
 ### Outer Fascia
 
+TODO
+
+**Diseases & Open Data**
+
+- Healthy Controls
+
 ### Inner Fascia
 
+TODO
+
+**Diseases & Open Data**
+
+- Healthy Controls
+
 ### Falciform Ligament
+
+TODO
+
+**Diseases & Open Data**
+
+- Healthy Controls
