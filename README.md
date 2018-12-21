@@ -26,7 +26,7 @@ Note that abnormal features (e.g. cancer) also belong in each section.
   - [Urinary System](#urinary-system)
     - [Kidneys](#kidneys)
     - [Ureters](#ureters)
-    - [Bladder](#bladder)
+    - [Urinary Bladder](#urinary-bladder)
   - [Other Organs](#other-organs)
     - [Spleen](#spleen)
     - [Uterus](#uterus)
@@ -277,13 +277,27 @@ The kidneys are two bean-shaped organs located on the left and right in the retr
 
 ### Ureters
 
-TODO
+The ureters are tubes that run from the kidneys to the urinary bladder. Their purpose is to carry fluid extracted by the kidneys to the bladder for excretion. [Wikipedia](https://en.wikipedia.org/wiki/Ureter)
 
 **Diseases & Open Data**
 
 - Healthy Controls
+- Urinary Tract Obstruction
+- Vesicoureteral Reflux
+- Hydronephrosis
+- Kidney Stones
+- Ureterocele
+- Calculus
+- Retroperitoneal Fibrosis
+- Duplicated Ureter
+- Ectopic Ureter
+- Transitional Cell Carcinoma (see [Kidneys](#kidneys))
+- Megaureter
+- Bladder Outlet Obstruction
+- Renal Colic
+- Ureteritis
 
-### Bladder
+### Urinary Bladder
 
 TODO
 
