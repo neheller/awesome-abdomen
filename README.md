@@ -113,11 +113,19 @@ Also known as the large bowel, the large intestine is the final part of the GI t
 
 ### Appendix
 
-TODO
+The appendix is a finger-like tube connected to the cecum at the junction of the small and large intestines. It is often considered to be a vestigial organ due to the lack of side effects upon its removal, but there is evidence to suggest that it supports the growth of useful intestinal bacteria. [Wikipedia](https://en.wikipedia.org/wiki/Appendix_(anatomy))
 
 **Diseases & Open Data**
 
 - Healthy Controls
+- Appendicitis
+- Fecalith
+- Carcinoid Tumors
+- Adenocarcinoid Tumors
+- Goblet Cell Carcinomas
+- Colonic-Type Adenocarcinoma
+- Non-carcinoid Appendix Tumors
+- Signet-Ring Cell Adenocarcinoma
 
 ## Accesories to Digestive Tract
 
