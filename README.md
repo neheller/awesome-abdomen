@@ -10,8 +10,6 @@ See something missing? Check out our [Contribution Guidelines](contributing.md) 
 
 ## Table of Contents
 
-Note that abnormal features (e.g. cancer) also belong in each section.
-
 - [Awesome Abdomen](#awesome-abdomen)
   - [Table of Contents](#table-of-contents)
   - [Digestive Tract](#digestive-tract)
