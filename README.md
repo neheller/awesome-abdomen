@@ -129,7 +129,7 @@ The appendix is a finger-like tube connected to the cecum at the junction of the
 
 ## Accesories to Digestive Tract
 
-TODO
+These are organs which are not considered to be part of the digestive tract itself, but are nonetheless instrumental to digestion.
 
 ### Liver
 
@@ -213,6 +213,8 @@ the duodenum. [Wikipedia](https://en.wikipedia.org/wiki/Pancreas)
 - Cystic Fibrosis
 
 ## Urinary System
+
+The urinary system serves several purposes, including the elimination of waste, the regulation of blood volume and pressure, the regulation of levels of electrolytes adn metabolites, and the regulation of blood pH. [Wikipedia](https://en.wikipedia.org/wiki/Urinary_system)
 
 ### Kidneys
 
@@ -307,11 +309,41 @@ The ureters are tubes that run from the kidneys to the urinary bladder. Their pu
 
 ### Urinary Bladder
 
-TODO
+The urinary bladder, often simply called bladder, is a distensible organ that sits on the pelvic floor. It's purpose is to store urine from the ureters until it exits through the urethra. [Wikipedia](https://en.wikipedia.org/wiki/Urinary_bladder)
 
 **Diseases & Open Data**
 
 - Healthy Controls
+- Urothelial Carcinoma
+  - [TCGA-BLCA](https://wiki.cancerimagingarchive.net/display/Public/TCGA-BLCA)
+    - Radiology
+      - CT, CR, MR, PT
+    - Pathology
+      - WSI
+    - Genomics ([separate url](https://portal.gdc.cancer.gov/projects/TCGA-BLCA))
+    - Clinical Information
+- Squamous Cell Carcinoma
+- Adenocarcinoma
+- Urinary Tract Infection
+- Interstitial Cystitis
+- Overactive Bladder
+- Cystocele
+- Urinary Incontinence
+- Hematuria
+- Urinary Retention
+- Neurogenic Bladder Dysfunction
+- Stones
+- Benign Prostatic Hyperplasia
+- Pyelonephritis
+- Vesiocoureteral Reflux
+- Stress Incontinence
+- Nocturia
+- Nocturnal Enuresis
+- Hunner's Ulcer
+- Bladder Exstrophy
+- Prolapse
+- Urethritis
+- Hydronephrosis
 
 ## Other Organs
 
