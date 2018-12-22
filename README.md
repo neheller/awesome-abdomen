@@ -42,10 +42,16 @@ Note that abnormal features (e.g. cancer) also belong in each section.
     - [Hepatic Veins](#hepatic-veins)
     - [Portal Vein](#portal-vein)
   - [Arteries](#arteries)
-    - [Descending Aorta](#descending-aorta)
+    - [Abdominal Descending Aorta](#abdominal-descending-aorta)
     - [Renal Arteries](#renal-arteries)
-    - [Gonadal Artery](#gonadal-artery)
-    - [Hepatic Artery](#hepatic-artery)
+    - [Gonadal Arteries](#gonadal-arteries)
+    - [Celiac Artery](#celiac-artery)
+    - [Common Hepatic Artery](#common-hepatic-artery)
+    - [Gastroduodenal Artery](#gastroduodenal-artery)
+    - [Right Gastric Artery](#right-gastric-artery)
+    - [Left Gastric Artery](#left-gastric-artery)
+    - [Hepatic Artery Proper](#hepatic-artery-proper)
+    - [Splenic Artery](#splenic-artery)
   - [Muscles](#muscles)
     - [Rectus Abdominis](#rectus-abdominis)
     - [Transverse Abdominal](#transverse-abdominal)
@@ -595,25 +601,80 @@ Also known as the hepatic portal vein, the portal vein is a blood vessel that ca
 
 ## Arteries
 
-TODO
+Arteries are blood vessels that take blood away from the heart. Most arteries carry oxygenated blood, with the exception of the pulmonary and umbilical arteries. [Wikipedia](https://en.wikipedia.org/wiki/Artery)
 
-### Descending Aorta
+### Abdominal Descending Aorta
 
-TODO
+The descending aorta is the largest artery in the body, running from the heart down to where it splits into the two common iliac arteries. It's purpose is to carry oxygenated blood to tissue in the middle and lower parts of the body. There is a large thoracic component to the descending aorta, but here we concern ourselves with only the abdominal component. [Wikipedia](https://en.wikipedia.org/wiki/Descending_aorta)
 
 **Conditions & Open Data**
 
 - Healthy Controls
+- Abdominal Aortic Dissection
+- Abdominal Aortic Aneurysm
+- Abdominal Aortic Atherosclerosis
 
 ### Renal Arteries
 
+The renal arteries are blood vessel arising from the left interior of the abdominal aorta and ending where they branch into capillaries in the renal hilum. These arteries carry as much as a third of all cardiac output through the kidneys for filtration. [Wikipedia](https://en.wikipedia.org/wiki/Renal_artery)
+
+**Conditions & Open Data**
+
+- Healthy Controls
+- Renal Artery Stenosis
+- Bruit
+- Renal Artery Cholesterol Embolism
+- Renovascular Hypertension
+- Renal Artery Vasculaitis
+- Fibromuscular Dysplasia
+- Renal Artery Dissection
+
+### Gonadal Arteries
+
+The gonadal arteries arise from the abdominal aorta and end at each testical (male) or ovary (female). Their purpose is to supply oxygenated blood to the gonads. [Wikipedia](https://en.wikipedia.org/wiki/Gonadal_artery)
+
+**Conditions & Open Data**
+
+- Healthy Controls
+
+### Celiac Artery
+
+Also known as the celiac trunk, the celiac artery is the first major branch of the abdominal aorta around thoracic vertebrae 12. It terminates where it splits into the left gastric artery, the common hepatic artery, and the splenic artery. [Wikipedia](https://en.wikipedia.org/wiki/Celiac_artery)
+
+**Conditions & Open Data**
+
+- Healthy Controls
+- Celiac Artery Dissection
+- Celiac Artery Aneurysm
+
+### Common Hepatic Artery
+
+The common hepatic artery is a blood vessel that supplies oxygenated blood to the liver, pylorus of the stomach, duodenum, pancreas, and gallbladder. It arises from the celiac artery and branches into the hepatic artery proper, the gastroduodenal artery, and the right gastric artery. [Wikipedia](https://en.wikipedia.org/wiki/Common_hepatic_artery)
+
+**Conditions & Open Data**
+
+- Healthy Controls
+
+### Gastroduodenal Artery
+
+The gastroduodenal artery is a small blood vessel in the abdomen that supplies blood directly to the pylorus and duodenum, and indirectly to the pancreatic head. It typically arises from the common hepatic artery and terminates when it splits into the right gastroepiploic arter and the anterior superior pancreaticoduodenal artery. [Wikipedia](https://en.wikipedia.org/wiki/Gastroduodenal_artery)
+
+**Conditions & Open Data**
+
+- Healthy Controls
+- Peptic Ulcer Disease
+- Gastroduodenal Artery Aneurysm
+- Gastroduodenal Artery Dissection
+
+### Right Gastric Artery
+
 TODO
 
 **Conditions & Open Data**
 
 - Healthy Controls
 
-### Gonadal Artery
+### Left Gastric Artery
 
 TODO
 
@@ -621,7 +682,15 @@ TODO
 
 - Healthy Controls
 
-### Hepatic Artery
+### Hepatic Artery Proper
+
+TODO
+
+**Conditions & Open Data**
+
+- Healthy Controls
+
+### Splenic Artery
 
 TODO
 
