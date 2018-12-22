@@ -35,14 +35,16 @@ Note that abnormal features (e.g. cancer) also belong in each section.
     - [Lumbar Vertebrae](#lumbar-vertebrae)
     - [Ribs](#ribs)
     - [Pelvis](#pelvis)
-  - [Veins and Arteries](#veins-and-arteries)
-    - [Descending Aorta](#descending-aorta)
+  - [Veins](#veins)
     - [Inferior Vena Cava](#inferior-vena-cava)
     - [Renal Veins](#renal-veins)
+    - [Gonadal Veins](#gonadal-veins)
+    - [Hepatic Veins](#hepatic-veins)
+    - [Portal Vein](#portal-vein)
+  - [Arteries](#arteries)
+    - [Descending Aorta](#descending-aorta)
     - [Renal Arteries](#renal-arteries)
-    - [Gonadal Vein](#gonadal-vein)
     - [Gonadal Artery](#gonadal-artery)
-    - [Hepatic Vein](#hepatic-vein)
     - [Hepatic Artery](#hepatic-artery)
   - [Muscles](#muscles)
     - [Rectus Abdominis](#rectus-abdominis)
@@ -528,27 +530,74 @@ The pelvis is the skeletal structure in the lower part of the human body between
 - Metastatic Bone Disease of the Pelvis
 - Vanishing Bone Disease Involving the Pelvis
 
-## Veins and Arteries
+## Veins
+
+Veins are blood vessels that carry blood toward the heart. Most veins carry deoxygenated blood from the tissues back to the heart, but some veins including pulmonary and umbilical veins carry oxygenated blood. [Wikipedia](https://en.wikipedia.org/wiki/Vein)
+
+### Inferior Vena Cava
+
+The Inferior Vena Cava (IVC) is a large vein which carries deoxygenated blood from the lower and middle body back to the heart. In the direction of flow, it begins where the left and right iliac veins join, and ends where it enters the right atrium of the heart. [Wikipedia](https://en.wikipedia.org/wiki/Inferior_vena_cava)
+
+**Conditions & Open Data**
+
+- Healthy Controls
+- Leimyosarcoma of the IVC
+- Double Inferior Vena Cava
+- Inferior Vena Cava Syndrome
+
+### Renal Veins
+
+The Renal Veins are the veins that carry filtered blood away from the kidney to the inferior vena cava. [Wikipedia](https://en.wikipedia.org/wiki/Renal_vein)
+
+**Conditions & Open Data**
+
+- Healthy Controls
+- Renal Vein Thrombosis
+- Renal Nutcracker Syndrome
+
+### Gonadal Veins
+
+The gonadal veins are the blood vessels that carrie blood away from the testis (male) or ovaries (female) to the inferior vena cava. [Wikipedia](https://en.wikipedia.org/wiki/Gonadal_vein)
+
+**Conditions & Open Data**
+
+- Healthy Controls
+- Pelvic Vein Disease
+- Pelvic Venous Congestion Syndrome
+- Ovarian Vein Syndrome
+- Female Gonadal Vein Insufficiency
+- Gonadal Vein Thrombosis
+
+### Hepatic Veins
+
+The hepatic veins are the blood vessels that carrie blood away from the liver and into the inferior vena cava. There are usually three hepatic veins draining from the left, middle, and right parts of the liver. [Wikipedia](https://en.wikipedia.org/wiki/Hepatic_veins)
+
+**Conditions & Open Data**
+
+- Healthy Controls
+- Budd-Chiari Syndrome
+- Hepatic Veno-occlusive Disease
+
+### Portal Vein
+
+Also known as the hepatic portal vein, the portal vein is a blood vessel that carries blood with nutrients and toxins from the GI tract, gallbladder, pancreas, and spleen to the liver. The portal vein accounts for roughly 75% of liver blood flow. [Wikipedia](https://en.wikipedia.org/wiki/Portal_vein)
+
+**Conditions & Open Data**
+
+- Healthy Controls
+- Portal Venous Gas
+- Portosystemic Shunt
+- Portal Hypertension
+- Portal Vein Thrombosis
+- Pylephlebitis
+- Gastric Varices
+- Non-cirrhotic Portal Fibrosis
+
+## Arteries
 
 TODO
 
 ### Descending Aorta
-
-TODO
-
-**Conditions & Open Data**
-
-- Healthy Controls
-
-### Inferior Vena Cava
-
-TODO
-
-**Conditions & Open Data**
-
-- Healthy Controls
-
-### Renal Veins
 
 TODO
 
@@ -564,23 +613,7 @@ TODO
 
 - Healthy Controls
 
-### Gonadal Vein
-
-TODO
-
-**Conditions & Open Data**
-
-- Healthy Controls
-
 ### Gonadal Artery
-
-TODO
-
-**Conditions & Open Data**
-
-- Healthy Controls
-
-### Hepatic Vein
 
 TODO
 
