@@ -494,21 +494,43 @@ The lumbar vertebrae are the five vertebrae between the rib cage and pelvis. The
 
 ### Ribs
 
-TODO
+Ribs are long curved bones which form the rib cage surrounding the chest. They serve to protect the internal organs of the thorax while allowing the lungs to expand during respiration. [Wikipedia](https://en.wikipedia.org/wiki/Rib) 
 
 **Conditions & Open Data**
 
 - Healthy Controls
+- Pancoast Tumor
+- Rib Fracture
+- Tietze Syndrome
+- Fibrous Dysplasia of Bone
+- Hypoplasia
+- Flail Chest
+- Preiosteal Reaction
+- Pectus Excavatum
+- Thoracic Outlet Syndrome
+- Cervical Rib
+- Asphyxiating Thoracic Dysplasia
+- Short Rib
+- Bifid Rib
+- Pulmonary Contusion
+- Microtia
+- Spondylocostal Dysostosis
 
 ### Pelvis
 
-TODO
+The pelvis is the skeletal structure in the lower part of the human body between the abdomen and thighs. The pelvis serves as a connection between the spine and the lower limbs, and it creates a cavity mainly for reproductive organs. [Wikipedia](https://en.wikipedia.org/wiki/Pelvis)
 
 **Conditions & Open Data**
 
 - Healthy Controls
+- Pelvic Fractures
+- Osteitis Pubis
+- Metastatic Bone Disease of the Pelvis
+- Vanishing Bone Disease Involving the Pelvis
 
 ## Veins and Arteries
+
+TODO
 
 ### Descending Aorta
 
