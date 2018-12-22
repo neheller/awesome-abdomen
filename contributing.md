@@ -14,15 +14,15 @@ We are very open to new ideas about formatting and organization. Feel free to [s
 
 At present, decisions are being made arbitrarily to decide what objects deserve a "top-level" entry and which are mentioned within them. If you know of an established taxonomy for this, please [submit an issue](https://github.com/neheller/awesome-abdomen/issues) with a source.
 
-### Structuring a "Diseases & Open Data" Section
+### Structuring a "Conditions & Open Data" Section
 
-Each top-level entry should contain a **Diseases & Open Data** (D&OD) section. Within that section should be anunordered list that always starts with "Healthy Controls".
+Each top-level entry should contain a **Conditions & Open Data** (C&OD) section. Within that section should be anunordered list that always starts with "Healthy Controls".
 
 Databases are always denoted by an anchor entry in the unordered list, but not all "level 2" entries need by databases. In prostate, for instance, there are a number of databases at level 2 under "Prostate Cancer", but Adenocarcinoma is also listed as a subset of prostate cancer with its own databases. This is allowed and should be utilized in cases where broad databases exist, in order to limit duplicate database entries.
 
 ### Structuring a Data Entry
 
-Databases can be included at any level in the D&OD other than 1. They must always take the following form
+Databases can be included at any level in the C&OD other than 1. They must always take the following form
 
 - [Link to Database](#structuring-a-data-entry)
   - Feature 1
