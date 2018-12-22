@@ -347,13 +347,31 @@ The urinary bladder, often simply called bladder, is a distensible organ that si
 
 ## Other Organs
 
+Organs which don't fit nicely into any of the other categories. Ideas for better organizing this data [are welcome](https://github.com/neheller/awesome-abdomen/issues).
+
 ### Spleen
 
-TODO
+The spleen is a purple organ in the left upper quadrant of the abdomen, and it plays important roles with regard to red blood cells, and the immune system. It removes old red blood cells, holds a reserve of them, and recycles iron, and its immune function is to metabolize hemoglobin. [Wikipedia](https://en.wikipedia.org/wiki/Spleen)
 
 **Diseases & Open Data**
 
 - Healthy Controls
+- Lymphoma
+- Leukemia
+- Splenomegaly
+- Splenic Injury
+- Gaucher's Disease
+- Infectious Mononucleosis
+- Hemolytic Anemia
+- Hereditary Spherocytosis
+- Asplenia
+- Spenic Infarction
+- Portal Hypertension
+- Myelofibrosis
+- Accessory Spleen
+- Wandering Spleen
+- Infantile Hemangioma
+- Extramedullary Hematopoiesis
 
 ### Uterus
 
@@ -362,6 +380,57 @@ Also known as the womb, the uterus is an organ of the female reproductive system
 **Diseases & Open Data**
 
 - Healthy Controls
+- Uterine Sarcoma
+- Endometrial Carcinoma
+  - [CPTAC-UCEC](http://doi.org/10.7937/K9/TCIA.2018.3R3JUISW)
+    - Radiology
+      - CT, MR, PT, CR
+    - Pathology
+      - WSI
+    - [TCGA-UCEC](http://dx.doi.org/10.7937/K9/TCIA.2016.GKJ0ZWAC)
+      - Radiology
+        - CT, CR, MR, PT
+      - Pathology
+        - WSI
+      - Clinical Information
+      - Genomics ([separate url](https://portal.gdc.cancer.gov/projects/TCGA-UCEC))
+  - Adenocarcinoma
+  - Carcinosarcoma
+  - Squamous Cell Carcinoma
+  - Undifferentiated Carcinoma
+  - Small Cell Carcinoma
+  - Transitional Carcinoma
+- Uterine Fibroid
+- Endometrial Polyp
+- Cervical Cancer
+- Ednometriosis
+- Endometritis
+- Menorrhagia
+- Adenomyosis
+- Endometrial Hyperplasia
+- Ectopic Pregnancy
+- Dysmenorrhea
+- Metritits
+- Pyometra
+- Prolapse
+- Leiomyoma
+- Asherman's Syndrome
+- Cercivitis
+- Adhesion
+- Retained Placenta
+- Pelvic Organ Prolapse
+- Obstructed Labor
+- Uterus Didelphys
+- Ovarian Cyst
+- Uterine Rupture
+- Uterine Malformation
+- Fibroma
+- Stenosis of Uterine Cervix
+- Retroverted Uterus
+- Postpartum Bleeding
+- Hematometra
+- Bicornuate Uterus
+- Unicornuate Uterus
 
 ### Prostate
 
