@@ -85,7 +85,7 @@ The stomach is located between the oesophegus and the small intestine. It secret
       - CT
     - Pathology
       - WSI
-    - Genomics ([separate url](https://portal.gdc.cancer.gov/projects/TCGA-STAD))
+    - Genomics ([separate url](https://portal.gdc.cancer.gov/projects/TCGA-STAD)) &#x1F535;
     - Clinical Data
 - Lymphoma
 - GIST
@@ -154,7 +154,7 @@ The liver is located in the right upper abdomen below the diaphram. It produces 
     - Pathology
       - WSI
     - Clinical Data
-    - Genomics ([separate url](https://portal.gdc.cancer.gov/projects/TCGA-LIHC))
+    - Genomics ([separate url](https://portal.gdc.cancer.gov/projects/TCGA-LIHC)) &#x1F535;
 - Cholangiocarcinoma
 - Angiosarcoma
 - Hemoblastoma
@@ -241,20 +241,20 @@ The kidneys are two bean-shaped organs located on the left and right in the retr
       - CT, MR, CR
     - Pathology
       - WSI
-    - Genomics ([separate url](https://portal.gdc.cancer.gov/projects/TCGA-KIRC))
+    - Genomics ([separate url](https://portal.gdc.cancer.gov/projects/TCGA-KIRC)) &#x1F535;
 - Renal Papillary Carcinoma
   - [TCGA-KIRP](http://dx.doi.org/10.7937/K9/TCIA.2016.ACWOGBEF)
     - Radiology
       - CT, MR, PT
     - Pathology
       - WSI
-    - Genomics ([separate url](https://portal.gdc.cancer.gov/projects/TCGA-KIRP))
+    - Genomics ([separate url](https://portal.gdc.cancer.gov/projects/TCGA-KIRP)) &#x1F535;
 - Renal Chromophobe Carcinoma
   - [TCGA-KICH](http://dx.doi.org/10.7937/K9/TCIA.2016.YU3RBCZN)
     - Radiology
       - CT, MR
     - Pathology
-    - Genomics ([separate url](https://portal.gdc.cancer.gov/projects/TCGA-KICH))
+    - Genomics ([separate url](https://portal.gdc.cancer.gov/projects/TCGA-KICH)) &#x1F535;
 - Transitional Cell Carcinoma
 - Sarcoma
 - Wilms Tumor
@@ -326,7 +326,7 @@ The urinary bladder, often simply called bladder, is a distensible organ that si
       - CT, CR, MR, PT
     - Pathology
       - WSI
-    - Genomics ([separate url](https://portal.gdc.cancer.gov/projects/TCGA-BLCA))
+    - Genomics ([separate url](https://portal.gdc.cancer.gov/projects/TCGA-BLCA)) &#x1F535;
     - Clinical Information
 - Squamous Cell Carcinoma
 - Adenocarcinoma
@@ -381,7 +381,7 @@ The spleen is a purple organ in the left upper quadrant of the abdomen, and it p
 
 ### Uterus
 
-Also known as the womb, the uterus is an organ of the female reproductive system. The superior end (the fundus) is connected to the fallopian tubes while the inferior end (the cervix) opes to the vagina. [Wikipedia](https://en.wikipedia.org/wiki/Uterus)
+Also known as the womb, the uterus is an organ of the female reproductive system. The superior end (the fundus) is connected to the fallopian tubes while the inferior end (the cervix) opens to the vagina. [Wikipedia](https://en.wikipedia.org/wiki/Uterus)
 
 **Conditions & Open Data**
 
@@ -399,7 +399,7 @@ Also known as the womb, the uterus is an organ of the female reproductive system
       - Pathology
         - WSI
       - Clinical Information
-      - Genomics ([separate url](https://portal.gdc.cancer.gov/projects/TCGA-UCEC))
+      - Genomics ([separate url](https://portal.gdc.cancer.gov/projects/TCGA-UCEC)) &#x1F535;
   - Adenocarcinoma
   - Carcinosarcoma
   - Squamous Cell Carcinoma
@@ -462,7 +462,7 @@ The prostate is a exocrine gland of the male reproductive system which sits betw
         - CT, PT, MR
       - Pathology
       - Clinical Data
-      - Genomics ([separate url](https://portal.gdc.cancer.gov/projects/TCGA-PRAD))
+      - Genomics ([separate url](https://portal.gdc.cancer.gov/projects/TCGA-PRAD)) &#x1F535;
     - Acinar Adenocarcinoma
     - Ductal Adenocarcinoma
 - Transitional Cell
@@ -644,6 +644,7 @@ Also known as the celiac trunk, the celiac artery is the first major branch of t
 - Healthy Controls
 - Celiac Artery Dissection
 - Celiac Artery Aneurysm
+- Celiac Artery Stenosis
 
 ### Common Hepatic Artery
 
@@ -666,35 +667,46 @@ The gastroduodenal artery is a small blood vessel in the abdomen that supplies b
 
 ### Right Gastric Artery
 
-TODO
+The right gastric artery arises from the common hepatic artery and supplies oxygenated blood to the pyloric end of the stomach along its lesser curvature, until it terminates by anastamosing with the left gastric artery. [Wikipedia](https://en.wikipedia.org/wiki/Right_gastric_artery)
 
 **Conditions & Open Data**
 
 - Healthy Controls
+- Right Gastric Artery Aneurysm
+- Right Gastric Artery Dissection
 
 ### Left Gastric Artery
 
-TODO
+The left gastric artery arises from the celiac artery and supplies oxygenated blood to the stomach along the superior portion of its lesser curvature, until it terminates by anastamosing with the right gastric artery. [Wikipedia](https://en.wikipedia.org/wiki/Left_gastric_artery)
 
 **Conditions & Open Data**
 
 - Healthy Controls
+- Left Gastric Artery Aneurysm
+- Left Gastric Artery Dissection
 
 ### Hepatic Artery Proper
 
-TODO
+Also called the proper hepatic artery, the hepatic artery proper arises from the common hepatic artery and supplies the liver and gallbladder. [Wikipedia](https://en.wikipedia.org/wiki/Hepatic_artery_proper)
 
 **Conditions & Open Data**
 
 - Healthy Controls
+- Hepatic Artery Proper Stenosis
+- Hepatic Artery Proper Aneurysm
+- Hepatic Artery Proper Dissection
 
 ### Splenic Artery
 
-TODO
+The splenic artery (formerly called the lienal artery) supplies oxygenated blood to the spleen. It arises from the celiac artery and runs superior to the pancreas. [Wikipedia](https://en.wikipedia.org/wiki/Splenic_artery)
 
 **Conditions & Open Data**
 
 - Healthy Controls
+- Splenic Artery Aneurysm
+- Splenic Artery Pseudoaneurysm
+- Splenic Artery Dissection
+- Splenic Artery Stenosis
 
 ## Muscles
 
