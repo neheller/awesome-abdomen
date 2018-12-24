@@ -634,6 +634,8 @@ The gonadal arteries arise from the abdominal aorta and end at each testical (ma
 **Conditions & Open Data**
 
 - Healthy Controls
+- Gonadal Artery Aneurysm
+- 
 
 ### Celiac Artery
 
