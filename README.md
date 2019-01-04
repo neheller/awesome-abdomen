@@ -393,13 +393,13 @@ Also known as the womb, the uterus is an organ of the female reproductive system
       - CT, MR, PT, CR
     - Pathology
       - WSI
-    - [TCGA-UCEC](http://dx.doi.org/10.7937/K9/TCIA.2016.GKJ0ZWAC)
-      - Radiology
-        - CT, CR, MR, PT
-      - Pathology
-        - WSI
-      - Clinical Information
-      - Genomics ([separate url](https://portal.gdc.cancer.gov/projects/TCGA-UCEC)) &#x1F535;
+  - [TCGA-UCEC](http://dx.doi.org/10.7937/K9/TCIA.2016.GKJ0ZWAC)
+    - Radiology
+      - CT, CR, MR, PT
+    - Pathology
+      - WSI
+    - Clinical Information
+    - Genomics ([separate url](https://portal.gdc.cancer.gov/projects/TCGA-UCEC)) &#x1F535;
   - Adenocarcinoma
   - Carcinosarcoma
   - Squamous Cell Carcinoma
