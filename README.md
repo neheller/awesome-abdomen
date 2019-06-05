@@ -456,6 +456,11 @@ The prostate is a exocrine gland of the male reproductive system which sits betw
       - MR
     - Pathology
       - WSI + Segmentations &#x1F537;
+    - [QIN-Prostate-Repeatability](https://wiki.cancerimagingarchive.net/display/Public/QIN-PROSTATE-Repeatability)
+      - Longitudinal (test-retest study with ~2 week interval)
+      - Radiology
+        - MR: T2w, DWI, DCE, ADC
+      - Segmentations of prostate gland, peripheral zone, and lesion and normal tissue regions based on radiological appearance
   - Adenocarcinoma
     - [TCGA-PRAD](https://wiki.cancerimagingarchive.net/display/Public/TCGA-PRAD#46af39dce8ee4f3eafa3f5305d907abc)
       - Radiology
@@ -500,7 +505,7 @@ The lumbar vertebrae are the five vertebrae between the rib cage and pelvis. The
 
 ### Ribs
 
-Ribs are long curved bones which form the rib cage surrounding the chest. They serve to protect the internal organs of the thorax while allowing the lungs to expand during respiration. [Wikipedia](https://en.wikipedia.org/wiki/Rib) 
+Ribs are long curved bones which form the rib cage surrounding the chest. They serve to protect the internal organs of the thorax while allowing the lungs to expand during respiration. [Wikipedia](https://en.wikipedia.org/wiki/Rib)
 
 **Conditions & Open Data**
 
@@ -635,7 +640,7 @@ The gonadal arteries arise from the abdominal aorta and end at each testical (ma
 
 - Healthy Controls
 - Gonadal Artery Aneurysm
-- 
+-
 
 ### Celiac Artery
 
