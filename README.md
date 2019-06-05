@@ -456,11 +456,11 @@ The prostate is a exocrine gland of the male reproductive system which sits betw
       - MR
     - Pathology
       - WSI + Segmentations &#x1F537;
-    - [QIN-Prostate-Repeatability](https://wiki.cancerimagingarchive.net/display/Public/QIN-PROSTATE-Repeatability)
-      - Longitudinal (test-retest study with ~2 week interval)
-      - Radiology
-        - MR: T2w, DWI, DCE, ADC
-      - Segmentations of prostate gland, peripheral zone, and lesion and normal tissue regions based on radiological appearance
+  - [QIN-Prostate-Repeatability](https://wiki.cancerimagingarchive.net/display/Public/QIN-PROSTATE-Repeatability)
+    - Longitudinal (test-retest study with ~2 week interval)
+    - Radiology
+      - MR: T2w, DWI, DCE, ADC
+    - Segmentations of prostate gland, peripheral zone, and lesion and normal tissue regions based on radiological appearance &#x1F537;
   - Adenocarcinoma
     - [TCGA-PRAD](https://wiki.cancerimagingarchive.net/display/Public/TCGA-PRAD#46af39dce8ee4f3eafa3f5305d907abc)
       - Radiology
