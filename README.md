@@ -152,7 +152,7 @@ The liver is located in the right upper abdomen below the diaphram. It produces 
 - Hepatocellular Carcinoma
   - [LiTS Challenge Data](https://competitions.codalab.org/competitions/17094)
     - Radiology
-      - MR, CT + Segmentations &#x1F537;
+      - CT + Segmentations &#x1F537;
   - [TCGA-LIHC](https://wiki.cancerimagingarchive.net/display/Public/TCGA-LIHC)
     - Radiology
       - MR, CT, PT
