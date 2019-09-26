@@ -230,6 +230,11 @@ The kidneys are two bean-shaped organs located on the left and right in the retr
 **Conditions & Open Data**
 
 - Healthy Controls
+- Renal Tumors (Various Types)
+  - [KiTS19](https://github.com/neheller/kits19)
+    - Radiology
+      - CT
+    - Segmentations of Kidneys and Kidney Tumors &#x1F537;
 - Renal Clear Cell Carcinoma
   - [CPTAC-CCRCC](https://wiki.cancerimagingarchive.net/display/Public/CPTAC-CCRCC)
     - Radiology
