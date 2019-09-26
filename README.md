@@ -145,10 +145,14 @@ The liver is located in the right upper abdomen below the diaphram. It produces 
 **Conditions & Open Data**
 
 - Healthy Controls
+  - [CHAOS Challenge Data](https://zenodo.org/record/3431873)
+    - Radiology
+      - CT, MR
+    - Segmentations of Kidneys, Liver, and Spleen &#x1F537;
 - Hepatocellular Carcinoma
   - [LiTS Challenge Data](https://competitions.codalab.org/competitions/17094)
     - Radiology
-      - CT + Segmentations &#x1F537;
+      - MR, CT + Segmentations &#x1F537;
   - [TCGA-LIHC](https://wiki.cancerimagingarchive.net/display/Public/TCGA-LIHC)
     - Radiology
       - MR, CT, PT
@@ -230,6 +234,10 @@ The kidneys are two bean-shaped organs located on the left and right in the retr
 **Conditions & Open Data**
 
 - Healthy Controls
+  - [CHAOS Challenge Data](https://zenodo.org/record/3431873)
+    - Radiology
+      - CT, MR
+    - Segmentations of Kidneys, Liver, and Spleen &#x1F537;
 - Renal Tumors (Various Types)
   - [KiTS19](https://github.com/neheller/kits19)
     - Radiology
@@ -368,6 +376,10 @@ The spleen is a purple organ in the left upper quadrant of the abdomen, and it p
 **Conditions & Open Data**
 
 - Healthy Controls
+  - [CHAOS Challenge Data](https://zenodo.org/record/3431873)
+    - Radiology
+      - CT, MR
+    - Segmentations of Kidneys, Liver, and Spleen &#x1F537;
 - Lymphoma
 - Leukemia
 - Splenomegaly
